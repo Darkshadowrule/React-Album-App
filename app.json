@@ -15,6 +15,8 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },"android":{
+     "package":"com.dark.Albums"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
